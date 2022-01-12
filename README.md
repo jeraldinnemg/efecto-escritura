@@ -8,5 +8,8 @@ Por: [FalconMasters](http://www.falconmasters.com)
 ### Screenshot
 ![](img/homepet.png)
 
+### Live 
+- [Live demo](https://jeraldinnemg.github.io/efecto-escritura/)
+
 ### Recursos
 - [TypedJS](https://github.com/mattboldt/typed.js/)
