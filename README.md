@@ -1,9 +1,4 @@
-# Tutorial Efecto de Escritura (ANIMADA) con JAVASCRIPT 
-### [Tutorial: https://youtu.be/bSHitSCqWr8](https://youtu.be/bSHitSCqWr8)
-
-![Efecto de Escritura (ANIMADA) con JAVASCRIPT](https://raw.githubusercontent.com/falconmasters/tutorial-efecto-escritura-typedjs/master/img/thumb.png)
-
-Por: [FalconMasters](http://www.falconmasters.com)
+# Efecto de Escritura (ANIMADA) con JAVASCRIPT 
 
 ### Screenshot
 ![](img/homepet.png)
@@ -13,3 +8,15 @@ Por: [FalconMasters](http://www.falconmasters.com)
 
 ### Recursos
 - [TypedJS](https://github.com/mattboldt/typed.js/)
+
+### Tecnologías usadas:
+HTML5
+CSS3
+JavaScript
+TypedJS
+
+### [Tutorial: https://youtu.be/bSHitSCqWr8](https://youtu.be/bSHitSCqWr8)
+
+
+
+
